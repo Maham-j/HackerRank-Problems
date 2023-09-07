@@ -6,12 +6,9 @@ import random
 import re
 import sys
 
-#
-# Complete the 'breakingRecords' function below.
-#
+
 # The function is expected to return an INTEGER_ARRAY.
 # The function accepts INTEGER_ARRAY scores as a parameter.
-#
 
 def breakingRecords(scores):
     # Initialize variables to track maximum and minimum scores and their corresponding records.
@@ -37,9 +34,6 @@ def breakingRecords(scores):
     return [max_records-1, min_records-1]
 
 if __name__ == '__main__':
-    # Open a file to write the output.
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
-
     # Read the number of scores.
     n = int(input().strip())
 
@@ -49,9 +43,4 @@ if __name__ == '__main__':
     # Call the breakingRecords function to calculate records.
     result = breakingRecords(scores)
 
-    # Write the results as space-separated integers to the output file.
-    fptr.write(' '.join(map(str, result)))
-    fptr.write('\n')
-
-    # Close the output file.
-    fptr.close()
+    print(result)
