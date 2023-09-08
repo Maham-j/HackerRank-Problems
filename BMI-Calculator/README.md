@@ -40,6 +40,15 @@ Embrace health with our BMI Calculator. 🥦🏃‍♀️💕
 
 Feel free to reach out! 💬👥
 
+## Find Us Online 🌐
+
+Discover more exciting coding projects on our [GitHub repository](https://github.com/Maham-j).
+
+Connect with the developer, Maham Jamil, on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267).
+
+Connect with the developer, Maham Jamil, on [HackerRank](https://www.hackerrank.com/maham_jamil)
+
+
 *Disclaimer: This tool isn't a substitute for medical advice.* 🩺👨‍⚕️👩‍⚕️
 
 ![Healthy Lifestyle](healthy-life.png)
