@@ -2,7 +2,7 @@
 
 Discover your Body Mass Index (BMI) effortlessly with our Python BMI Calculator! 🚀
 
-![BMI Calculator](https://www.example.com/bmi_calculator_image.png)
+![BMI Calculator](body-mass-index-bmi-chart.png)
 
 ## What's BMI? 🤔
 
@@ -42,4 +42,4 @@ Feel free to reach out! 💬👥
 
 *Disclaimer: This tool isn't a substitute for medical advice.* 🩺👨‍⚕️👩‍⚕️
 
-![Healthy Lifestyle](https://www.example.com/healthy_lifestyle_image.png)
+![Healthy Lifestyle](healthy-life.png)
