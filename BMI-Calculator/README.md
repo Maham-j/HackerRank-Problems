@@ -19,20 +19,20 @@ Using our BMI Calculator is a breeze:
 5.  Find your weight category:
 
 ## Know Your Category 🤔
+
 Discover where you stand on the BMI scale:
 
-Underweight: BMI < 18.5 💔
+- **Underweight**: BMI < 18.5 &nbsp;&nbsp;&nbsp; 💔
+  - You might be too thin.
 
-You might be too thin.
-Normal Weight: 18.5 ≤ BMI < 24.9 👍
+- **Normal Weight**: 18.5 ≤ BMI < 24.9 &nbsp;&nbsp;&nbsp; 👍
+  - You're in a healthy range.
 
-You're in a healthy range.
-Overweight: 25 ≤ BMI < 29.9 🙁
+- **Overweight**: 25 ≤ BMI < 29.9 &nbsp;&nbsp;&nbsp; 🙁
+  - Some extra pounds, but manageable.
 
-Some extra pounds, but manageable.
-Obese: BMI ≥ 30 😱
-
-Higher health risks.
+- **Obese**: BMI ≥ 30 &nbsp;&nbsp;&nbsp; 😱
+  - Higher health risks.
 
 Consult a pro for a comprehensive evaluation!
 
