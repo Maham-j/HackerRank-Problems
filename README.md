@@ -42,11 +42,11 @@ Please make sure your code follows good coding practices and includes comments t
 
 ## Connect with Me 🌐
 
-Discover more exciting coding projects on my [GitHub repository](https://github.com/YourGitHubUsername).
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j).
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267).
 
-Connect with me on HackerRank: [Your HackerRank Profile](https://www.hackerrank.com/your-hackerrank-profile)
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
 
 ---
 
