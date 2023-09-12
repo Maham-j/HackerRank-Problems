@@ -51,8 +51,10 @@ This PyPassword Generator script is provided under the MIT License. See the LICE
 
 If you have any questions or suggestions regarding the PyPassword Generator, feel free to reach out on GitHub or LinkedIn:
 
-GitHub: [https://github.com/Maham-j]
+🔗GitHub: [GitHub repository](https://github.com/Maham-j)
 
-LinkedIn: [https://www.linkedin.com/in/maham-jamil-268584267].
+🔗LinkedIn:  [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
+
+🔗HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
 
 Stay secure with strong passwords! 🔒🔐🚀
