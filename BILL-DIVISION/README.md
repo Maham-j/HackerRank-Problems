@@ -63,11 +63,11 @@ This means that the bill was incorrectly split, and Brian owes Anna a refund of 
 
 Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
 
-GitHub: [https://github.com/Maham-j]
+GitHub: [GitHub](https://github.com/Maham-j)
 
-LinkedIn: [https://www.linkedin.com/in/maham-jamil-268584267]
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
 
-HackerRank: [https://www.hackerrank.com/maham_jamil]
+HackerRank: [HackerRank](https://www.hackerrank.com/maham_jamil)
 
 
 ## License
