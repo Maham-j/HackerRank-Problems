@@ -64,11 +64,11 @@ Feel free to use and modify this script to make fun and exciting mealtime decisi
 
 Contributions are welcome! If you want to add new features or improvements, feel free to open an issue or submit a pull request.
 
-GitHub: https://github.com/Maham-j
+🔗GitHub: [GitHub repository](https://github.com/Maham-j)
 
-LinkedIn: https://www.linkedin.com/in/maham-jamil-268584267
+🔗LinkedIn:  [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
 
-HackerRank: https://www.hackerrank.com/maham_jami
+🔗HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
 
 ## License
 
