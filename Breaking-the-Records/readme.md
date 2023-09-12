@@ -56,6 +56,12 @@ This means that there were 2 times when the maximum score was broken, and 0 time
 
 Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
 
+🔗GitHub: [GitHub repository](https://github.com/Maham-j).
+
+🔗LinkedIn:  [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267).
+
+🔗HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
