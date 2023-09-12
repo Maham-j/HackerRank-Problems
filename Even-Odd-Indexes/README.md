@@ -43,8 +43,10 @@ This String Position Separator script is provided under the MIT License. See the
 
 If you have any questions or suggestions about the script, feel free to reach out on GitHub or LinkedIn:
 
-GitHub: [https://github.com/Maham-j]
+🔗GitHub: [GitHub repository](https://github.com/Maham-j)
 
-LinkedIn: [https://www.linkedin.com/in/maham-jamil-268584267]
+🔗LinkedIn:  [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
+
+🔗HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
 
 # Enjoy separating characters based on their positions! 🧮🔀
