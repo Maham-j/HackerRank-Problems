@@ -43,12 +43,13 @@ Feel free to customize the game rules to make it more challenging or suitable fo
 
 If you have ideas to enhance the game or spot any issues, feel free to contribute! Fork this repository, make your changes, and submit a pull request.
 
-Discover more exciting coding projects on my [GitHub repository](https://github.com/YourGitHubUsername).
+Discover more exciting coding projects on my 
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+🔗GitHub: [GitHub repository](https://github.com/Maham-j)
 
-Connect with me on HackerRank: [Your HackerRank Profile](https://www.hackerrank.com/your-hackerrank-profile)
+🔗LinkedIn:  [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
 
+🔗HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
 
 ## 📄 License:
 
