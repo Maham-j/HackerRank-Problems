@@ -42,9 +42,11 @@ The script contains the following key steps:
 
 You can also find this project on GitHub, where you can explore the code, contribute, or even fork it to create your own version:
 
-🔗 **GitHub Repository:** [https://github.com/Maham-j]
+🔗GitHub: [GitHub repository](https://github.com/Maham-j).
 
-🔗 **LinkedIn:**  [https://www.linkedin.com/in/maham-jamil-268584267]
+🔗LinkedIn:  [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267).
+
+🔗HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
 
 # 🌟 **Celebrate with Code** 🎊
 
