@@ -40,8 +40,11 @@ This **Staircase Art Generator** script is provided under the Apache License. Se
 
 If you have any questions, or artistic insights, or just want to discuss the beauty of code, reach out on GitHub or LinkedIn:
 
-GitHub:  [https://github.com/Maham-j]
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j).
 
-LinkedIn: [https://www.linkedin.com/in/maham-jamil-268584267]
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267).
 
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
+
+---
 # Witness the magic of code shaping into art! 📶🎨🌟
