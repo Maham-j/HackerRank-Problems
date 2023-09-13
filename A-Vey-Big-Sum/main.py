@@ -24,7 +24,7 @@ def aVeryBigSum(ar):
     return sum
 
 if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+    # fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
     ar_count = int(input().strip())
 
@@ -32,7 +32,9 @@ if __name__ == '__main__':
 
     result = aVeryBigSum(ar)
 
-    fptr.write(str(result) + '\n')
+    print(result)
 
-    fptr.close()
+    # fptr.write(str(result) + '\n')
+
+    # fptr.close()
  
