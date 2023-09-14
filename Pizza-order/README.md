@@ -1,18 +1,56 @@
- # Pizza Order Calculator 🍕💰
+# Pizza Order Calculator 🍕🍴
 
-This simple Python script helps you calculate the total cost of your pizza order based on size and toppings. 🍕🍴
+This Python script calculates the total cost of your pizza order based on size and toppings.
 
-# Usage 🚀: 
+## Usage
 
-🐍 Run the script in a Python environment.
+1. Run the script in a Python environment.
 
-  Follow the prompts to customize your pizza order:
+2. Follow the prompts to customize your pizza order:
+
+   - Choose the pizza size (small, medium, or large). 🍕
     
-  🍕 Enter the size of the pizza (small, medium, or large).
+   - Add pepperoni (yes or no). 🌶️
     
-  🌶️🍕 Specify if you want to add pepperoni (y for yes, n for no). 
+   - Include extra cheese (yes or no). 🧀
     
-  🧀🍕 Choose if you'd like extra cheese (y for yes, n for no).
-    
-     
-# Enjoy your delicious custom pizza while Budgeting Wisely🤭! 🍕💰
+Enjoy your custom pizza while managing your budget!
+
+## Features
+
+- **Size Options:** Select from small, medium, or large pizzas.
+
+- **Toppings:** Customize with pepperoni and extra cheese.
+
+- **Budget-Friendly:** Get the total cost upfront.
+
+## Example
+
+Here's how to use the script:
+
+```
+Enter pizza size: large
+Add pepperoni? (yes/no): yes
+Extra cheese? (yes/no): no
+
+Your order:
+- Size: Large
+- Pepperoni: Yes
+- Extra Cheese: No
+
+Total Cost: $15.99
+```
+# 📞 Contact:
+
+If you have any questions or suggestions about the script, feel free to reach out on GitHub or LinkedIn:
+
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j).
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267).
+
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
+
+
+## Enjoy Your Pizza!
+
+With this Pizza Order Calculator, you can easily satisfy your pizza cravings while staying within your budget. Happy eating! 🍕💰
