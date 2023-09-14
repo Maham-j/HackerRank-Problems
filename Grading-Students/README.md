@@ -1,39 +1,42 @@
-# 📚 **Grading Policy Rounding Tool** 📚
+# Grading Policy Rounding Tool 📚
 
-This Python script simulates a grading policy used at HackerLand University. The policy involves rounding student grades according to specific rules. Professor Sam has written this script to automate the grading process while adhering to the university's guidelines.
+This Python script automates the grading process according to HackerLand University's policy.
 
-# 🔍 **Code Walkthrough:**
+## How It Works 🔍
 
-- **Grade Input:** The script starts by taking the total number of students, `n`, as input. It then prompts the user to enter the grades of individual students, which are stored in the `arr` list.
+1. Input the total number of students, `n`, and their grades.
 
-- **Rounding Logic:** The script proceeds to round the grades according to the specified rules. It first iterates through each student's grade in the `arr` list. If the grade is not already a failing grade (less than 38) and its remainder when divided by 5 is not zero, the script increments the grade until it becomes the next multiple of 5. The rounded grades are stored in the `rounded` list.
+2. The script rounds grades per the rules:
+    - If the grade is < 38, it remains unchanged.
+    - If the grade % 5 is not zero, it's rounded up to the next multiple of 5.
 
-- **Final Adjustment:** The script then calculates the difference between the original grades and the rounded grades. If the difference is less than 3, the rounded grade is deemed acceptable and added to the `array` list. Otherwise, the original grade is retained.
+3. Grades with a difference < 3 are rounded, while others are kept as is.
 
-- **Output and Result:** The script prints the original grades, the rounded grades, and the final array of grades that are either rounded up or left unchanged.
+4. Output displays original grades, rounded grades, and the final grade list.
 
-# 🔧 **Usage:**
+## Usage 🔧
 
-1. Run the script in your Python environment.
+1. Run the script in Python.
 
-2. Enter the number of students.
+2. Input student count and grades.
 
-3. Enter the grades of individual students.
+3. Get the rounded grades as per the university's policy.
 
-4. The script will calculate and display the rounded grades according to the rules.
+## Customization ⚙️
 
-# ⚙️ **Customization:**
+Feel free to customize the script:
+- Modify rounding logic.
+- Adjust grading policy conditions.
 
-Feel free to customize the script as needed:
+# 📞 Contact:
 
-- Modify the rounding logic if the university's policy changes.
+If you have any questions or suggestions about the script, feel free to reach out on GitHub or LinkedIn:
 
-- Add more conditions or adjustments to the grading policy.
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j).
 
-# 🌐 **Find Me Online:**
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267).
 
-Explore more of my coding projects on GitHub: GitHub: [https://github.com/Maham-j]
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
 
-LinkedIn: [https://www.linkedin.com/in/maham-jamil-268584267]
-
+---
 Happy grading! 📝🎓👨‍🏫
