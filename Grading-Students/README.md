@@ -28,7 +28,7 @@ Feel free to customize the script:
 - Modify rounding logic.
 - Adjust grading policy conditions.
 
-# 📞 Contact:
+#  Contact 📞
 
 If you have any questions or suggestions about the script, feel free to reach out on GitHub or LinkedIn:
 
