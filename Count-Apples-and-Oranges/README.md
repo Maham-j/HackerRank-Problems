@@ -1,6 +1,6 @@
 # 🍏🍊 Apple and Orange Counter 🍏🍊
 
-This Python script calculates the number of 🍏 and oranges 🍊 that land on Sam's house based on their positions and distances of falling.
+This Python script calculates the number of apples 🍏 and oranges 🍊 that land on Sam's house based on their positions and distances of falling.
 
 ## Table of Contents
 
