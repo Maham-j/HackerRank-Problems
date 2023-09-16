@@ -31,7 +31,7 @@ def birthday(s, d, m):
 
 if __name__ == '__main__':
     # Open a file to write the output
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+    #fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
     # Read the total number of chocolate squares
     n = int(input().strip())
@@ -47,8 +47,10 @@ if __name__ == '__main__':
     # Call the birthday function and get the result
     result = birthday(s, d, m)
 
+    print(result)
+
     # Write the result to the output file
-    fptr.write(str(result) + '\n')
+    #fptr.write(str(result) + '\n')
 
     # Close the output file
-    fptr.close()
+    #fptr.close()
