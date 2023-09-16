@@ -63,11 +63,11 @@ This means that there are 2 ways Lily can divide the chocolate bar according to 
 
 Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
 
-GitHub: [Maham Jamil](https://github.com/Maham-j)
+GitHub: [GitHub](https://github.com/Maham-j)
 
-LinkedIn: [Maham Jamil](https://www.linkedin.com/in/maham-jamil-268584267)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
 
-HackerRank: [Maham Jamil](https://www.hackerrank.com/maham_jamil)
+HackerRank: [HackerRank](https://www.hackerrank.com/maham_jamil)
 
 ## License
 
