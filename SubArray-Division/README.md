@@ -3,7 +3,7 @@
 This Python script helps determine how many ways Lily can divide a chocolate bar based on certain conditions.
 
 ## Table of Contents
-
+ 
 - [Problem Statement](#problem-statement)
 - [Usage](#usage)
 - [Input Format](#input-format)
