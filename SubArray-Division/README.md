@@ -3,10 +3,10 @@
 This Python script helps determine how many ways Lily can divide a chocolate bar based on certain conditions.
 
 ## Table of Contents
-
+ 
 - [Problem Statement](#problem-statement)
 - [Usage](#usage)
-- [Input Format](#input-format)
+- [Input Format](#input-format) 
 - [Example](#example)
 - [Contributing](#contributing)
 - [License](#license)
@@ -63,11 +63,11 @@ This means that there are 2 ways Lily can divide the chocolate bar according to 
 
 Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
 
-GitHub: [https://github.com/Maham-j]
+GitHub: [GitHub](https://github.com/Maham-j)
 
-LinkedIn: [https://www.linkedin.com/in/maham-jamil-268584267]
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
 
-HackerRank: [(https://www.hackerrank.com/maham_jamil)]
+HackerRank: [HackerRank](https://www.hackerrank.com/maham_jamil)
 
 ## License
 
