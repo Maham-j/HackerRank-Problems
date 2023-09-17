@@ -36,7 +36,7 @@ Output:
 
 This Sum of Very Big Integers script is provided under the MIT License. See the LICENSE file for more details.
 
-# 📞 Contact:
+# 📞 Contact: 
 
 If you have any questions or suggestions about the script, feel free to reach out on GitHub or LinkedIn:
 
