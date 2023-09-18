@@ -1,4 +1,4 @@
-# 🤖 Divisible Sum Pairs Finder 🤖
+# 🤖 Divisible Sum Pairs Finder 
 
 A Python function to find pairs of integers in an array that meet a specific divisibility criterion.
 
