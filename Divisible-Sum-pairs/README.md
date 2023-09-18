@@ -45,11 +45,12 @@ It uses nested loops to iterate through all pairs of elements in the array and c
 
 Contributions are welcome! If you have any improvements, bug fixes, or feature enhancements, please fork this repository, make your changes, and submit a pull request.
 
-GitHub: [https://github.com/Maham-j]
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j).
 
-LinkedIn: [https://www.linkedin.com/in/maham-jamil-268584267]
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267).
 
-HackerRank: [(https://www.hackerrank.com/maham_jamil)]
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
+
 
 ## 📄 License
 
