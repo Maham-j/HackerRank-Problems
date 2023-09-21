@@ -1,4 +1,4 @@
-# 🏆 Record Breaker 🏆
+# 🏆 Record Breaker 🏆 
 
 This Python script calculates the number of times records are broken in a list of scores.
 
