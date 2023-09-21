@@ -1,5 +1,5 @@
 # 🍽️ Bon Appétit Calculator 🍽️
-
+ 
 This Python script helps you verify the correctness of the bill split between two friends, Anna and Brian, at a dinner. If the calculation is incorrect, it determines the refund amount.
 
 ## Table of Contents
