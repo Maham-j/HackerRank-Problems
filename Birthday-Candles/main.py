@@ -1,4 +1,4 @@
-# Define the function for counting tallest candles on a birthday cake
+# Define the function for counting tallest candles on a birthday cake 
 def birthdayCakeCandles():
     # Read the number of candles
     n = int(input())
