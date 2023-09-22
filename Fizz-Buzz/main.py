@@ -1,5 +1,5 @@
 # Loop through numbers from 1 to 100 (inclusive)
-for i in range (1,101):
+for i in range (1,101): 
 
 # Print 'FizzBuzz' if divisible by both 3 and 5
     if i%5 == 0 and i%3 == 0:
