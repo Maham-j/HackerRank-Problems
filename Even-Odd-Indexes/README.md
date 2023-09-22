@@ -1,5 +1,5 @@
 # 🔢 String Position Separator  🔢
-
+ 
 Welcome to the String Position Separator! This Python script allows you to separate characters from an input string into even and odd positions. Below, you'll find the script and instructions on how to use it effectively.
 
 # 📜 Description:
