@@ -1,5 +1,5 @@
 # Student Score Calculator 📚✏️
-
+ 
 Calculate and display the average score of a student based on their name. 🎯
 
 ## Table of Contents 📜
