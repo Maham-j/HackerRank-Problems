@@ -1,4 +1,4 @@
-# 🐦 Migratory Birds Identifier 🐦
+# Migratory Birds Identifier 🐦
 
 This Python function, `migratoryBirds`, helps identify the most migratory bird type based on a list of bird sightings. It's a simple yet effective way to determine the bird species that has been spotted the most.
  
