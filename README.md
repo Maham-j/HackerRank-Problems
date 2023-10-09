@@ -40,7 +40,7 @@ Contributions are welcome! If you have a more optimized solution or want to add 
 
 Please make sure your code follows good coding practices and includes comments to explain your thought process.
 
-## Connect with Me 🌐
+## Connect with Me 🌐 
 
 Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j)
 
