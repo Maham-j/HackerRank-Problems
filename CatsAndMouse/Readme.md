@@ -18,4 +18,15 @@ Welcome to the Cats & Mouse game! In this simple and fun challenge, you'll decid
 # **Example:** 
 For instance, if Cat A starts at 1, Cat B starts at 3, and Mouse C starts at 2, Cat A will catch the mouse first, so you'd print "Cat A."
 
+## Connect with Me 🌐 
+
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
+
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
+
+---
+
+
 Enjoy this fast-paced game, and may the quickest cat win! 🏃‍♂️🏃‍♀️🐁🐾
