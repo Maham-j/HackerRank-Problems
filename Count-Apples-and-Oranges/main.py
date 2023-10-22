@@ -5,7 +5,7 @@ import os
 import random
 import re
 import sys
-
+ 
 # The function to count apples and oranges that land within a house's range
 def countApplesAndOranges(s, t, a, b, apples, oranges):
     apples_land = 0  # Counter for apples that land within the range
