@@ -1,7 +1,7 @@
 import time
 
 # Get the current time in the format HH:MM:SS
-timestamp = time.strftime('%H:%M:%S')
+timestamp = time.strftime('%H:%M:%S') 
 
 # Print the current timestamp
 print (timestamp)
