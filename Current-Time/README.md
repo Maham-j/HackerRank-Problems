@@ -1,7 +1,7 @@
 # Time-Based Greeting Script ⏰
 
 Welcome to the Time-Based Greeting Script! This Python script allows you to greet someone based on the current time of the day. Below, you'll find the script and a brief explanation of how it works. 🕰️
-
+ 
 ## Description
 
 The Time-Based Greeting Script utilizes the `time` module to retrieve the current time in the format HH:MM:SS. It then compares the time with predefined intervals to determine the appropriate greeting for the time of the day: morning ☀️, afternoon 🌤️, evening 🌆, or night 🌙.
