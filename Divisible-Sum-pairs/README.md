@@ -2,7 +2,7 @@
 
 A Python function to find pairs of integers in an array that meet a specific divisibility criterion.
 
-## 💡 Problem Statement
+## 💡 Problem Statement 
 
 Given an array of integers `ar` and a positive integer `k`, we want to determine the number of pairs `(i, j)` where `i < j` and `ar[i] + ar[j]` is divisible by `k`.
 
