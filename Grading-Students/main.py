@@ -1,5 +1,5 @@
 def gradingStudents():
-    # Input the number of students
+    # Input the number of students 
     n = int(input())
     arr = []  # Initialize an array to store original marks
     array = []  # Initialize an array to store final grades
