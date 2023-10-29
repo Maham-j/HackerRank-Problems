@@ -4,7 +4,7 @@ import math
 import os
 import random
 import re
-import sys
+import sys 
 
 # The function to calculate the refund or print "Bon Appetit"
 def bonAppetit(bill, k, b):
