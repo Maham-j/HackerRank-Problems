@@ -4,7 +4,7 @@ height = float (input('Enter height in m: '))
 # Get weight in kilograms from the user
 weight = int (input('Enter weight in kg: '))
  
-# Calculate BMI
+# Calculate BMI 
 BMI = weight / (height**2)				 	
 print ('BMI:' , BMI)
 
