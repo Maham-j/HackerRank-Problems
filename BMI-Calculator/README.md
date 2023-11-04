@@ -1,5 +1,5 @@
 # BMI Calculator 📏🧮
-
+ 
 Discover your Body Mass Index (BMI) effortlessly with our Python BMI Calculator! 🚀
 
 ![BMI Calculator](body-mass-index-bmi-chart.png)
