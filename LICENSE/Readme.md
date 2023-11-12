@@ -62,4 +62,16 @@ Do not remove or alter the stub code provided in the editor. The stub code is ne
 
 This implementation is provided under the MIT License. Feel free to use, modify, and distribute this code as per the terms of the MIT License. See the LICENSE file for more details.
 
+
+##  Contact: 
+
+If you have any questions or suggestions about the script, feel free to reach out on GitHub or LinkedIn:
+
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j).
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267).
+
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
+
+
 Happy coding! 🚀
