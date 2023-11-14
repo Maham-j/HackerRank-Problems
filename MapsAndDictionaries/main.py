@@ -3,7 +3,7 @@ n = int(input())
 phoneBook = {} 
 
 for _ in range(n):
-    name, phone_number = input().split()
+    name, phone_number = input().split() 
     phoneBook[name] = phone_number
 
 queries = []
