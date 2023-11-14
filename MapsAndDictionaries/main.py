@@ -1,6 +1,6 @@
 
 n = int(input())
-phoneBook = {} 
+phoneBook = {}  
 
 for _ in range(n):
     name, phone_number = input().split() 
