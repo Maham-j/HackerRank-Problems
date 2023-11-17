@@ -50,4 +50,13 @@ Ensure that your function correctly reverses the digits of the given number.
 
 This implementation is provided under the MIT License. You are free to use, modify, and distribute this code as per the terms of the MIT License. See the LICENSE file for more details.
 
+## Connect with Me 🌐 
+
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
+
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
+
+---
 Happy coding! 🔄✨
