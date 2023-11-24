@@ -3,7 +3,7 @@
 ## 🚀 Introduction 
 
 Welcome to the Viral Advertising Strategy problem! HackerLand Enterprise has adopted a new advertising strategy for its product launch, targeting a specific number of people through social media. They aim to track the number of people who like the advertisement by leveraging a specific sharing algorithm.
-
+ 
 ## 📝 Problem Description
 
 When launching a new product, HackerLand advertises it to exactly 5 people on social media. The advertisement is initially liked by half of these 5 people, and each shares it with a specific number of friends. The process continues, where on each subsequent day, half of the recipients from the previous day like the ad and share it with their friends.
