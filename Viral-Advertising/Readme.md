@@ -1,6 +1,6 @@
 # Viral Advertising Strategy 
 
-## 🚀 Introduction
+## 🚀 Introduction 
 
 Welcome to the Viral Advertising Strategy problem! HackerLand Enterprise has adopted a new advertising strategy for its product launch, targeting a specific number of people through social media. They aim to track the number of people who like the advertisement by leveraging a specific sharing algorithm.
 
