@@ -2,7 +2,7 @@
 
 Welcome to the Sum of Very Big Integers script! This Python script calculates the sum of a list of large integers. Below, you'll find the script and instructions on how to utilize it.
 
-# 📜 Description:
+# 📜 Description: 
  
 The Sum of Very Big Integers script calculates the sum of a list of large integers provided as input. The `aVeryBigSum` function iterates through each element in the input list 'ar' and adds them together to compute the total sum.
 
