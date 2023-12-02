@@ -1,4 +1,4 @@
-# Cats & Mouse Game 🐱🐭  
+# Cats & Mouse Game 🐱🐭   
 
 Welcome to the Cats & Mouse game! In this simple and fun challenge, you'll decide the fate of two cats, Cat A and Cat B, as they chase after a cunning mouse, Mouse C. Here's how it works:
 
