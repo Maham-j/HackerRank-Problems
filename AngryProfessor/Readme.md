@@ -1,7 +1,7 @@
 # Class Cancellation 
 
 ## 🕒 Introduction
- 
+  
 Welcome to the Class Cancellation challenge! 🎓 In this problem, you're presented with a scenario where a Discrete Mathematics professor plans to cancel the class based on the arrival times of the students. The professor will cancel the class if fewer than a certain number of students arrive on time.
 
 ## 📝 Problem Description
