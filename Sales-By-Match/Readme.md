@@ -36,10 +36,14 @@ print(f"Number of pairs: {pairs}")
    python sock_pair_counter.py
    ```
 
-### Author ✍️
+## Connect with Me 🌐 
 
-[Your Name]
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
+
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
 
 ---
 
-Feel free to modify and expand this README as needed for your specific project or application.
+Happy coding! 🚀
