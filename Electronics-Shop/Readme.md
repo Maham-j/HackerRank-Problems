@@ -39,10 +39,14 @@ print(f"Total cost of most expensive pair: ${total_cost}")
    python expensive_keyboard_and_drive.py
    ```
 
-### Author ✍️
+## Connect with Me 🌐 
 
-[Your Name]
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
+
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
 
 ---
 
-Feel free to adapt and expand upon this README according to your specific project or use case.
+Happy coding! 🚀
