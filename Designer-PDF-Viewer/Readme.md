@@ -48,8 +48,16 @@ For any questions, concerns, or feedback, reach out to [your email or contact in
 
 ## 🔐 License:
 
-This program is licensed under [insert license type]. See LICENSE.md for more details.
+This program is licensed under [MIT](mit). See LICENSE.md for more details.
+
+## Connect with Me 🌐 
+
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
+
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
 
 ---
 
-Feel free to customize this README according to your specific program, adding more details or instructions as needed.
+Happy coding! 🚀
