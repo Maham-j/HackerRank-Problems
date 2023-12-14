@@ -29,6 +29,18 @@ This Python script computes the factorial of a given integer `n` using the `extr
 ## ℹ️ Additional Information
 - Ensure that the input is a non-negative integer to compute the factorial.
 
+## Connect with Me 🌐 
+
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
+
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
+
+
+Happy coding! 🚀
+
+
 ## Note
 This README provides an overview of the Python script `extraLongFactorials`, explaining its functionality and usage.
 
