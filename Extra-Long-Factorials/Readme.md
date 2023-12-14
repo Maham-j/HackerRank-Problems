@@ -38,10 +38,9 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
 Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
 
 
-Happy coding! 🚀
-
 
 ## Note
 This README provides an overview of the Python script `extraLongFactorials`, explaining its functionality and usage.
 
 ---
+Happy coding! 🚀
