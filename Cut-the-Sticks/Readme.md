@@ -49,9 +49,23 @@ cut_sticks(sticks)
 
 This function takes an array of stick lengths as input and prints the number of sticks remaining before each iteration until there are no sticks left.
 
+## Connect with Me 🌐 
+
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
+
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
+
+
+
 ## Contributions
 
 Contributions to this algorithm and its implementations are welcome. Feel free to fork this repository, make changes, and submit a pull request. 🚀
+
+---
+
+Happy coding! 🚀
 
 ---
 
