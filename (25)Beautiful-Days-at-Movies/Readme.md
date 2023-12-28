@@ -1,7 +1,7 @@
 # Beautiful Days 
 
 ## 🌟 Introduction
-
+ 
 Welcome to the Beautiful Days challenge! In this problem, Lily has created a game involving integers where she determines the difference between a number and its reverse. She wants to apply this game to decision making to determine beautiful days in a range of numbered days.
 
 ## 📝 Problem Description
