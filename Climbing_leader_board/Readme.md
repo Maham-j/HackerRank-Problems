@@ -1,6 +1,6 @@
 
 
-# 🎮 Dense Ranking System for Arcade Game Leaderboard
+# 🎮 Dense Ranking System for Arcade Game Leaderboard 
 
 # Overview
 
