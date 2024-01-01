@@ -1,7 +1,7 @@
 
 
 # 🎮 Dense Ranking System for Arcade Game Leaderboard 
-
+ 
 # Overview
 
 This README outlines the dense ranking system used in the arcade game leaderboard. The system ranks players based on scores, ensuring a clear and sequential ranking order while handling ties.
