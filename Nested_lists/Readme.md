@@ -41,12 +41,14 @@ If there are multiple students with the second lowest grade, the names should be
    - `example_input.txt`: Sample input for testing.
    - `example_output.txt`: Expected output corresponding to the sample input.
 
-## How to Run ▶️🖥️
-1. Clone the repository to your local machine.
-2. Open a terminal or command prompt.
-3. Navigate to the directory where the code is located.
-4. Run the Python script using `python student_grades.py`.
-5. Enter the number of students and their names with grades as prompted.
-6. Check the output for the student(s) with the second lowest grade.
+## Connect with Me 🌐 
 
-Feel free to modify the code or inputs to test different scenarios! 🛠️✨
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
+
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
+
+---
+
+Happy coding! 🚀
