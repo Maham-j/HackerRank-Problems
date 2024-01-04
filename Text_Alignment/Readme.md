@@ -1,4 +1,4 @@
-Absolutely! Here's an updated README for the HackerRank Logo generator script with added emojis:
+
 
 # 🖥️ HackerRank Logo Generator
 
