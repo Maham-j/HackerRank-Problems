@@ -5,7 +5,7 @@ import os
 import random
 import re 
 import sys 
-
+ 
 # The function is expected to return an INTEGER_ARRAY.
 # The function accepts INTEGER_ARRAY scores as a parameter.
 
