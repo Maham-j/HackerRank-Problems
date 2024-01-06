@@ -3,7 +3,7 @@
 import math 
 import os
 import random
-import re
+import re 
 import sys 
 
 # The function is expected to return an INTEGER_ARRAY.
