@@ -4,7 +4,7 @@ import random
 import re 
 import sys 
 
-#
+# 
 # Complete the 'angryProfessor' function below.
 #
 # The function is expected to return a STRING.
