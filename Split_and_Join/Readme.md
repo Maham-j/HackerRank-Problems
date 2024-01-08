@@ -26,5 +26,5 @@ Feel free to contribute by suggesting improvements or reporting issues. Pull req
 If you encounter any problems or have questions, feel free to reach out for support.
 
 ## License 📜
-This script is available under the [MIT License](link-to-license).
+This script is available under the [MIT License]([link-to-license](https://github.com/Maham-j/HackerRank-Problems/blob/main/Split_and_Join/License)https://github.com/Maham-j/HackerRank-Problems/blob/main/Split_and_Join/License).
 
