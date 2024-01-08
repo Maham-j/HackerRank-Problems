@@ -26,5 +26,18 @@ Feel free to contribute by suggesting improvements or reporting issues. Pull req
 If you encounter any problems or have questions, feel free to reach out for support.
 
 ## License 📜
-This script is available under the [MIT License]([link-to-license](https://github.com/Maham-j/HackerRank-Problems/blob/main/Split_and_Join/License)https://github.com/Maham-j/HackerRank-Problems/blob/main/Split_and_Join/License).
+This script is available under the [MIT License](MIT).
+
+## Connect with Me 🌐 
+
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
+
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
+
+---
+
+Happy coding! 🚀
+
 
