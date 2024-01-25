@@ -44,8 +44,18 @@ In this example, we illustrate the immutability of strings in Python. Once a str
 
 👉 The original string remains unchanged, emphasizing the immutability property.
 
+## Connect with Me 🌐 
+
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
+
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
+
+---
+
 ## 🚀 Explore and Run
 
 Feel free to explore and run the code to deepen your understanding! Happy coding! 🚀
-```
+
 
