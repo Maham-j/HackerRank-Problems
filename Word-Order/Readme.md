@@ -34,5 +34,17 @@ banana
 2. Process the input to count the occurrences of each word.
 3. Print the count of distinct words followed by the occurrences of each word, maintaining their order of appearance in the input.
 
+## Connect with Me 🌐 
+
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
+
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
+
+---
+
+Happy coding! 🚀
+
 
 Feel free to utilize this script to efficiently count the occurrences of words! 📝
