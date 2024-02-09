@@ -1,6 +1,6 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 n = int(input())
-
+ 
 strings = [input() for _ in range(n)]
 
 dic = {}
