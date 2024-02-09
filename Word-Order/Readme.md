@@ -1,5 +1,5 @@
 # Word Occurrences Counter 📊
-
+ 
 ## Description 📜
 The task is to count the occurrences of each word provided in a list of words. Some words may repeat, and the output should display each word along with its number of occurrences, maintaining the order of appearance in the input.
 
