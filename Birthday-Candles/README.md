@@ -3,7 +3,7 @@
 This simple Python script helps you determine the number of candles you should light for a child's birthday cake, where each candle represents a year of their age. The script identifies the tallest candles and counts how many of them there are, ensuring the birthday child has a memorable and candle-filled celebration!
 
 #  🎈 **Problem Statement** 🎁
-
+ 
 You're entrusted with creating a cake for a child's birthday. The cake's uniqueness lies in the fact that it will have one candle for each year of the child's age. However, the child can only blow out the tallest candles. Your task is to count how many candles share the highest height.
 
 # 💡 **Solution Approach** 🍰
