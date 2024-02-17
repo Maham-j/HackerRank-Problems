@@ -1,7 +1,7 @@
 # Define the function for counting tallest candles on a birthday cake 
 def birthdayCakeCandles():
     # Read the number of candles
-    n = int(input())
+    n = int(input()) 
     # Initialize an empty list to store candle heights 
     arr = []  
     # Initialize variables to track tallest candle and count of tallest candles
