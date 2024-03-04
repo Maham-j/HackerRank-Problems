@@ -1,4 +1,4 @@
-# Get height in meters from the user 
+# Get height in meters from the user  
 height = float (input('Enter height in m: ')) 
  
 # Get weight in kilograms from the user
