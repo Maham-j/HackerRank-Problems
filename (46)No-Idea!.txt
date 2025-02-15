@@ -1,0 +1,31 @@
+There is an array of  integers. There are also  disjoint sets,  and , each containing  integers. 
+You like all the integers in set  and dislike all the integers in set . Your initial happiness is . 
+For each  integer in the array, if , you add  to your happiness. If , you add  to your happiness. Otherwise, your happiness does not change. Output your final happiness at the end.
+
+Note: Since  and  are sets, they have no repeated elements. However, the array might contain duplicate elements.
+
+
+
+
+
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+# Read n and m from the first line
+n, m = map(int, input().split())
+
+# Read the elements of the array from the second line
+arr = list(map(int, input().split()))
+
+# Read the elements of set A from the third line
+A = set(map(int, input().split()))
+
+# Read the elements of set B from the fourth line
+B = set(map(int, input().split()))
+
+happiness = 0
+for num in arr:
+    if num in A:
+        happiness +=1
+    elif num in B:
+        happiness -=1
+
+print(happiness)

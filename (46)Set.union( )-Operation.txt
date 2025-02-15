@@ -1,0 +1,13 @@
+n = int(input())
+english_input = input().split()
+english = [int(num) for num in english_input]
+
+m = int(input())
+french_input = input().split()
+french = [int(num) for num in french_input]
+
+formatted_english = set(english)
+formatted_french = set(french)
+
+union = formatted_english.union(formatted_french)
+print(len(union)) 

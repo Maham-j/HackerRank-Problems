@@ -1,0 +1,28 @@
+Given an integer, , print the following values for each integer  from  to :
+
+- Decimal
+- Octal
+- Hexadecimal (capitalized)
+- Binary
+
+
+
+
+
+def print_formatted(n):
+    width = len(str(bin(n))[2:])  # Calculate the width based on the maximum binary value 'n'
+
+    for i in range(1, n + 1):
+        octal_num = oct(i)[2:].rjust(width, ' ')  # Right-justify and add spaces for octal
+        hexadecimal_num = hex(i)[2:].upper().rjust(width, ' ')  # Right-justify, capitalize, and add spaces for hexadecimal
+        binary_num = bin(i)[2:].rjust(width, ' ')  # Right-justify and add spaces for binary
+
+        # Use string formatting to align each column with spaces
+        formatted_output = "{:>{width}} {:>{width}} {:>{width}} {:>{width}}".format(i, octal_num, hexadecimal_num, binary_num, width=width)
+
+        print(formatted_output)
+
+
+if __name__ == '__main__':
+    n = int(input())
+    print_formatted(n)
